@@ -1,56 +1,97 @@
-# Aditya9009
-Here's your GitHub profile README content — copy this into the README of that `Aditya9009` repository:
-
----
-
-```markdown
 # Hi, I'm Aditya 👋
 
-CEH Certified Cybersecurity undergraduate with hands-on experience in ethical hacking, 
-secure software development, AI-based threat detection, and blockchain security. 
-I build projects that sit at the intersection of security and modern web technology.
+### Software Engineering | Full-Stack Development | Cybersecurity
+
+I'm a Computer Science undergraduate specializing in Cyber Security at Bennett University, with hands-on experience building web and cross-platform applications.
+
+I enjoy building practical products across the frontend and backend, working with APIs, authentication, databases, and deployment, while applying cybersecurity principles to build more secure systems.
 
 ---
 
-## 🔭 What I'm Working On
-- Expanding **File Guardian** — an AI-powered malware & threat detection platform built on the MERN stack
-- Exploring **Smart Contract Security** and blockchain vulnerability analysis
-- Sharpening penetration testing skills using Kali Linux, Burp Suite & Metasploit
+## 🚀 What I Build
+
+- Full-stack web applications using the MERN stack
+- Cross-platform applications using Flutter and Firebase
+- REST APIs and backend services
+- Authentication and role-based access systems
+- AI-powered security applications
+- Responsive and user-focused web interfaces
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-**Languages:** C++, Java, Python  
-**Web:** HTML, CSS, React, Node.js, Express, MongoDB (MERN Stack)  
-**Cybersecurity:** Ethical Hacking, Penetration Testing, Vulnerability Assessment, Malware Detection, AES Encryption  
-**Security Tools:** Wireshark, Nmap, Burp Suite, Kali Linux, Metasploit  
-**Blockchain:** Smart Contract Security, Cryptographic Hashing, Digital Signatures, Distributed Ledger  
+### Languages
+C++ · Java · Python · JavaScript
+
+### Frontend
+React.js · HTML5 · CSS3 · Tailwind CSS · TypeScript
+
+### Backend & Database
+Node.js · Express.js · Flask · MongoDB · Firebase · PostgreSQL
+
+### Application Development
+Flutter · REST APIs · Authentication · Role-Based Access Control
+
+### Cybersecurity
+Ethical Hacking · Penetration Testing · Vulnerability Assessment · Malware Detection · Web Security · AES Encryption
+
+### Tools
+Git · GitHub · Wireshark · Nmap · Burp Suite · Kali Linux · Metasploit
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
-**🔐 File Guardian — AI Powered Secure File Scanner**  
-An intelligent file security platform that scans uploaded files for malware, viruses, and suspicious threats using AI-based detection combined with signature analysis.  
-`MERN Stack` `AI` `Cybersecurity`
+### 🏢 Property Management Application
+Cross-platform property management application developed during my industry internship for Web, Android, and iOS using Flutter and Firebase.
 
-**🔒 Encryptos — AES Encryption & Decryption App**  
-A desktop application implementing AES symmetric encryption for secure text protection with a Java Swing interface.  
-`Java` `Java Swing` `AES Cryptography`
+- Authentication and backend services
+- Five role-based interfaces
+- Admin, Employee, Executive and other user workflows
+- Cross-platform application development
+
+### 🔎 Phishing Detector
+AI-powered phishing URL detection platform built with React, Node.js, Express, MongoDB and Python Flask.
+
+- Random Forest machine-learning classifier
+- REST API integration
+- Scan history and statistics
+- End-to-end deployment
+
+### 🛡️ File Guardian
+AI-powered secure file scanning platform for detecting malware and suspicious files.
+
+- AI-based and signature-based detection
+- Secure file upload workflow
+- Threat analysis and reporting
+
+### 🏠 Real Estate Sales App
+Application focused on property/real-estate sales workflows and management.
 
 ---
 
 ## 📜 Certification
-- **Certified Ethical Hacker (CEH)** — EC-Council, Feb 2026
+
+**Certified Ethical Hacker (CEH)** — EC-Council  
+February 2026
 
 ---
 
-## 📬 Reach Me
-- 📧 adityaduhan007@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/aditya-duhan-59959a298/)
-```
+## 💼 Experience
+
+**Frontend Development Intern — Edufyi**  
+Worked on responsive web interfaces and independently developed a cross-platform property management application.
+
+**Freelance Web Developer**  
+Built and delivered websites for real-world clients, handling requirements, development, testing and delivery.
 
 ---
 
-Paste this directly into the README editor on GitHub and it'll render with proper formatting, icons and sections on your profile page.
+## 📫 Connect With Me
+
+📧 adityaduhan007@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/aditya-duhan-59959a298/)
+
+🐙 [GitHub](https://github.com/Adityaa9009)
